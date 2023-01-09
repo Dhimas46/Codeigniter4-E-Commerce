@@ -1,3 +1,9 @@
+# Configure .env
+
+<img src="database.png"></img>
+
+
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?

@@ -6,9 +6,7 @@
 
 ## Configure Environtment 
 ### you can customize your enirontment like this 
-
-
-
+![environment](https://user-images.githubusercontent.com/44389333/211234197-ec9b880d-6f38-40ee-adb9-afedf05b889b.png)
 
 
 # CodeIgniter 4 Framework

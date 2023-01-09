@@ -1,6 +1,13 @@
 # Configure .env
 
-<img src="database.png"></img>
+## Configure database 
+### my database name is ecom, but for sure you can customize it
+![database](https://user-images.githubusercontent.com/44389333/211233962-8eb48f64-c669-4dd4-9e66-ca99b8db8940.png)
+
+## Configure Environtment 
+### you can customize your enirontment like this 
+
+
 
 
 
